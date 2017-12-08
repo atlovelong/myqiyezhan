@@ -120,6 +120,12 @@ article{
 	width: 100%;
 	height: 600px;
 }
+
+.section-banner img{
+	display: block;
+	margin: 0 auto;
+}
+
 .section-body-main{
     width: 1000px;
 	height: 500px;

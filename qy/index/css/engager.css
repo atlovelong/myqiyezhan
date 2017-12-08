@@ -115,11 +115,22 @@ article{
 	width: 100%;
 	height: 980px;
 }
-.section-body-main{
-  width: 1000px;
-	height: 100%;
+
+.section-banner img{
+	display: block;
 	margin: 0 auto;
 }
+
+.section-body-main img{
+	display: block;
+	margin: 0 auto;
+}
+
+.banner-box img{
+	display: block;
+	margin: 0 auto;
+}
+
 .take{
   margin-top: 40px;
   text-align: center;
@@ -136,6 +147,8 @@ article{
 	color: skyblue;
 }
 .section-body-box{
+	width: 1000px;
+	margin: 0 auto;
 	height: 300px;
 	margin-top: 40px;
 }

@@ -93,6 +93,10 @@ section{
 	height: 450px;
 	overflow: hidden;
 }
+.banner-box img{
+	display: block;
+	margin: 0 auto;
+}
 article{
 	margin-top: 100px;
 	margin-bottom: 106px;
